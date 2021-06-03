@@ -1,0 +1,34 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Team_1",
+      "cover": "imag_1",
+      "description": "team_1"
+    },
+    {
+      "id": 2,
+      "name": "Team_2",
+      "cover": "imag_2",
+      "description": "team_2"
+    },
+    {
+      "id": 3,
+      "name": "Team_3",
+      "cover": "imag_3",
+      "description": "team_3"
+    },
+    {
+      "id": 4,
+      "name": "Team_4",
+      "cover": "imag_4",
+      "description": "team_4"
+    },
+    {
+      "id": 5,
+      "name": "Team_5",
+      "cover": "imag_5",
+      "description": "team_5"
+    }
+  ]
+}
